@@ -8,7 +8,7 @@
 ### :books: Aprendendo: </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### :gear: Plataformas e ferramentas: </br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
