@@ -3,7 +3,6 @@
 ### Sobre mim:</br>
 - 🇧🇷 Moro em Manaus, Amazonas.
 - 📚 Sou estudante de Engenharia de Computação na Universidade do Estado do Amazonas. 
-- 💬 Gosto de conversar sobre **Tecnologia, Filmes e Jogos.**
 
 ### :books: Aprendendo: </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
