@@ -20,8 +20,7 @@
 <p align="center">
   <i>Contato e redes socais: </i>
 
-  <p align="center">
-    <a href="https://twitter.com/geooww_" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
+  <p align="center">    
     <a href="https://www.linkedin.com/in/geovani-sampaio-52415b216/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
   <a href="https://www.facebook.com/geovani.sampaio.7" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
   <a href="https://www.instagram.com/geovani_sampaio" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
