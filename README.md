@@ -8,7 +8,7 @@
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ### :gear: Plataformas e ferramentas: </br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
@@ -17,6 +17,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Google Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=GoogleColab&logoColor=orange)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </br>
 <p align="center">
